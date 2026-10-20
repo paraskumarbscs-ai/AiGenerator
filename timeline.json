@@ -1,0 +1,83 @@
+{
+    "project": "AI_Auto_Video_Pro",
+    "clips": [
+        {
+            "image_file": "scene_0.jpg",
+            "audio_file": "scene_0.mp3",
+            "duration_seconds": 6.14,
+            "scene_text": "Ek dafa ka zikr hai, ek baaz (eagle) ka anda ghalti se ek khet me murgiyon (chickens) ke ghonsle me gir gaya"
+        },
+        {
+            "image_file": "scene_1.jpg",
+            "audio_file": "scene_1.mp3",
+            "duration_seconds": 3.12,
+            "scene_text": "Jab anda toota, toh usme se baaz ka bacha nikla"
+        },
+        {
+            "image_file": "scene_2.jpg",
+            "audio_file": "scene_2.mp3",
+            "duration_seconds": 6.34,
+            "scene_text": "Lekin kyunke wo murgiyon ke beech paida hua tha, usne khud ko bhi ek aam murgi samajh liya"
+        },
+        {
+            "image_file": "scene_3.jpg",
+            "audio_file": "scene_3.mp3",
+            "duration_seconds": 6.41,
+            "scene_text": "Wo zameen par daana chugta, sirf kuch fit tak udta, aur bilkul murgiyon jaisi aawazein nikalta"
+        },
+        {
+            "image_file": "scene_4.jpg",
+            "audio_file": "scene_4.mp3",
+            "duration_seconds": 3.46,
+            "scene_text": "Usne kabhi ooncha udne ka socha hi nahi"
+        },
+        {
+            "image_file": "scene_5.jpg",
+            "audio_file": "scene_5.mp3",
+            "duration_seconds": 7.7,
+            "scene_text": "Ek din, usne asmaan me ek bohot bade aur shandaar parinday ko baadalon ka seena cheerte hue udte dekha"
+        },
+        {
+            "image_file": "scene_6.jpg",
+            "audio_file": "scene_6.mp3",
+            "duration_seconds": 11.06,
+            "scene_text": "Usne hairat se paas khadi ek murgi se poocha, 'Wo shandaar parinda kaun hai?'\n\nMurgi ne hanste hue kaha, 'Wo asmaan ka raja, Baaz hai"
+        },
+        {
+            "image_file": "scene_7.jpg",
+            "audio_file": "scene_7.mp3",
+            "duration_seconds": 4.54,
+            "scene_text": "Lekin tum uski tarah nahi ud sakte, kyunke tum ek murgi ho"
+        },
+        {
+            "image_file": "scene_8.jpg",
+            "audio_file": "scene_8.mp3",
+            "duration_seconds": 3.84,
+            "scene_text": "'\n\nBaaz ke us bache ne is baat ko sach maan liya"
+        },
+        {
+            "image_file": "scene_9.jpg",
+            "audio_file": "scene_9.mp3",
+            "duration_seconds": 7.34,
+            "scene_text": "Usne apni poori zindagi zameen par ek murgi ban kar guzaar di, aur kabhi apne asli pankh nahi phailaye"
+        },
+        {
+            "image_file": "scene_10.jpg",
+            "audio_file": "scene_10.mp3",
+            "duration_seconds": 6.05,
+            "scene_text": "Lesson: Aapki zindagi wahi banti hai jo aap khud ke baare me sochte hain"
+        },
+        {
+            "image_file": "scene_11.jpg",
+            "audio_file": "scene_11.mp3",
+            "duration_seconds": 9.1,
+            "scene_text": "Agar aap apne aas-paas ke aam logon ki baatein sun kar apne khwabon ko chota kar lenge, toh aap kabhi apni asli taqat nahi pehchan payenge"
+        },
+        {
+            "image_file": "scene_12.jpg",
+            "audio_file": "scene_12.mp3",
+            "duration_seconds": 5.69,
+            "scene_text": "Asmaan me udna hai, toh zameen par chalne walon ki soch se bahar nikalna hoga"
+        }
+    ]
+}
